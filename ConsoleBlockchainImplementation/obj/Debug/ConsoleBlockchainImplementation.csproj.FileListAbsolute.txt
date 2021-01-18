@@ -1,0 +1,7 @@
+C:\Users\olive\source\repos\ConsoleBlockchainImplementation\ConsoleBlockchainImplementation\bin\Debug\ConsoleBlockchainImplementation.exe.config
+C:\Users\olive\source\repos\ConsoleBlockchainImplementation\ConsoleBlockchainImplementation\bin\Debug\ConsoleBlockchainImplementation.exe
+C:\Users\olive\source\repos\ConsoleBlockchainImplementation\ConsoleBlockchainImplementation\bin\Debug\ConsoleBlockchainImplementation.pdb
+C:\Users\olive\source\repos\ConsoleBlockchainImplementation\ConsoleBlockchainImplementation\obj\Debug\ConsoleBlockchainImplementation.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\ConsoleBlockchainImplementation\ConsoleBlockchainImplementation\obj\Debug\ConsoleBlockchainImplementation.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\ConsoleBlockchainImplementation\ConsoleBlockchainImplementation\obj\Debug\ConsoleBlockchainImplementation.exe
+C:\Users\olive\source\repos\ConsoleBlockchainImplementation\ConsoleBlockchainImplementation\obj\Debug\ConsoleBlockchainImplementation.pdb
